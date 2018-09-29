@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\tmaso\\source\\repos\\LearningTools.SandBox.Api\\LearningTools.SandBox.Api\\LearningTools.SandBox.Api.csproj",
+      "projectUniqueName": "C:\\Users\\tmaso\\Documents\\GitHub\\learning_sandbox\\LearningTools.SandBox.Api\\LearningTools.SandBox.Api.csproj",
       "projectName": "LearningTools.SandBox.Api",
-      "projectPath": "c:\\users\\tmaso\\source\\repos\\LearningTools.SandBox.Api\\LearningTools.SandBox.Api\\LearningTools.SandBox.Api.csproj",
+      "projectPath": "C:\\Users\\tmaso\\Documents\\GitHub\\learning_sandbox\\LearningTools.SandBox.Api\\LearningTools.SandBox.Api.csproj",
       "packagesPath": "C:\\Users\\tmaso\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\tmaso\\source\\repos\\LearningTools.SandBox.Api\\LearningTools.SandBox.Api\\obj\\",
+      "outputPath": "C:\\Users\\tmaso\\Documents\\GitHub\\learning_sandbox\\LearningTools.SandBox.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

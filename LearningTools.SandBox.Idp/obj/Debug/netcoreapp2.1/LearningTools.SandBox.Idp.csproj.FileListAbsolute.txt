@@ -1,0 +1,11 @@
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Idp\bin\Debug\netcoreapp2.1\LearningTools.SandBox.Idp.deps.json
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Idp\bin\Debug\netcoreapp2.1\LearningTools.SandBox.Idp.runtimeconfig.json
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Idp\bin\Debug\netcoreapp2.1\LearningTools.SandBox.Idp.runtimeconfig.dev.json
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Idp\bin\Debug\netcoreapp2.1\LearningTools.SandBox.Idp.dll
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Idp\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Idp.csprojAssemblyReference.cache
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Idp\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Idp.csproj.CoreCompileInputs.cache
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Idp\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Idp.RazorAssemblyInfo.cache
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Idp\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Idp.RazorAssemblyInfo.cs
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Idp\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Idp.AssemblyInfoInputs.cache
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Idp\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Idp.AssemblyInfo.cs
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Idp\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Idp.RazorTargetAssemblyInfo.cache

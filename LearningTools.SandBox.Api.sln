@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearningTools.SandBox.Api", "LearningTools.SandBox.Api\LearningTools.SandBox.Api.csproj", "{8BEA1C61-2F24-40E9-BD4B-68FBF7B5B1DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostedServicesLibrary", "HostedServicesLibrary\HostedServicesLibrary.csproj", "{3DCDC3E4-A272-4F50-ABC3-57FC013686FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HostedServicesLibrary", "HostedServicesLibrary\HostedServicesLibrary.csproj", "{3DCDC3E4-A272-4F50-ABC3-57FC013686FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningTools.SandBox.Idp", "LearningTools.SandBox.Idp\LearningTools.SandBox.Idp.csproj", "{0854944C-C8D2-4197-B9D1-6EEBB41678AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3DCDC3E4-A272-4F50-ABC3-57FC013686FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DCDC3E4-A272-4F50-ABC3-57FC013686FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DCDC3E4-A272-4F50-ABC3-57FC013686FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0854944C-C8D2-4197-B9D1-6EEBB41678AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0854944C-C8D2-4197-B9D1-6EEBB41678AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0854944C-C8D2-4197-B9D1-6EEBB41678AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0854944C-C8D2-4197-B9D1-6EEBB41678AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,17 @@
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\bin\Debug\netcoreapp2.1\LearningTools.SandBox.Api.deps.json
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\bin\Debug\netcoreapp2.1\LearningTools.SandBox.Api.runtimeconfig.json
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\bin\Debug\netcoreapp2.1\LearningTools.SandBox.Api.runtimeconfig.dev.json
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\bin\Debug\netcoreapp2.1\LearningTools.SandBox.Api.dll
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\bin\Debug\netcoreapp2.1\LearningTools.SandBox.Api.pdb
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\bin\Debug\netcoreapp2.1\HostedServicesLibrary.dll
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\bin\Debug\netcoreapp2.1\HostedServicesLibrary.pdb
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Api.csprojAssemblyReference.cache
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Api.csproj.CoreCompileInputs.cache
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Api.RazorAssemblyInfo.cache
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Api.RazorAssemblyInfo.cs
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Api.AssemblyInfoInputs.cache
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Api.AssemblyInfo.cs
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Api.RazorTargetAssemblyInfo.cache
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Api.csproj.CopyComplete
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Api.dll
+C:\Users\tmaso\Documents\GitHub\learning_sandbox\LearningTools.SandBox.Api\obj\Debug\netcoreapp2.1\LearningTools.SandBox.Api.pdb

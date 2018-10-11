@@ -4333,16 +4333,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
-      },
-      "HostedServicesLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.1",
-        "compile": {
-          "bin/placeholder/HostedServicesLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/HostedServicesLibrary.dll": {}
-        }
       }
     }
   },
@@ -11501,16 +11491,10 @@
         "system.xml.xpath.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
-    },
-    "HostedServicesLibrary/1.0.0": {
-      "type": "project",
-      "path": "../HostedServicesLibrary/HostedServicesLibrary.csproj",
-      "msbuildProject": "../HostedServicesLibrary/HostedServicesLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "HostedServicesLibrary >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
@@ -11522,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tmaso\\Documents\\GitHub\\learning_sandbox\\LearningTools.SandBox.Api\\LearningTools.SandBox.Api.csproj",
-      "projectName": "LearningTools.SandBox.Api",
-      "projectPath": "C:\\Users\\tmaso\\Documents\\GitHub\\learning_sandbox\\LearningTools.SandBox.Api\\LearningTools.SandBox.Api.csproj",
+      "projectUniqueName": "C:\\Users\\tmaso\\Documents\\GitHub\\learning_sandbox\\LearningTools.SandBox.Idp\\LearningTools.SandBox.Idp.csproj",
+      "projectName": "LearningTools.SandBox.Idp",
+      "projectPath": "C:\\Users\\tmaso\\Documents\\GitHub\\learning_sandbox\\LearningTools.SandBox.Idp\\LearningTools.SandBox.Idp.csproj",
       "packagesPath": "C:\\Users\\tmaso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tmaso\\Documents\\GitHub\\learning_sandbox\\LearningTools.SandBox.Api\\obj\\",
+      "outputPath": "C:\\Users\\tmaso\\Documents\\GitHub\\learning_sandbox\\LearningTools.SandBox.Idp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -11544,11 +11528,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {
-            "C:\\Users\\tmaso\\Documents\\GitHub\\learning_sandbox\\HostedServicesLibrary\\HostedServicesLibrary.csproj": {
-              "projectPath": "C:\\Users\\tmaso\\Documents\\GitHub\\learning_sandbox\\HostedServicesLibrary\\HostedServicesLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
